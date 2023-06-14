@@ -12,7 +12,7 @@ export default {
 export const PrimaryButtonNormal = () => {
   const classes = useStyles();
   return (
-    <CustomizedButton buttonProps={buttonData.obj1} styles={classes.customButton5} /> 
+    <CustomizedButton buttonProps={buttonData.obj1} styles={classes.customButton1} /> 
   );
 };
 
