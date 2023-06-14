@@ -4,7 +4,7 @@ import SentimentSatisfiedAltIcon from '@mui/icons-material/SentimentSatisfiedAlt
 const buttonData = { 
   obj1:{
   onClick: () => {console.log('button clicked1')},
-  text: "Button Label2",
+  text: "ChromaticChecksfinal",
   disabled: false,
   //startIcon: <SentimentSatisfiedAltIcon />,
   //endIcon: <SentimentSatisfiedAltIcon />,
