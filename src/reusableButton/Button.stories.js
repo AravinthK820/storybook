@@ -33,7 +33,7 @@ export const SecondaryButtonNormal = () => {
 export const SecondaryButtonCondensed = () => {
   const classes = useStyles();
   return (
-    <CustomizedButton buttonProps={buttonData.obj4} styles={classes.customButton3} />
+    <CustomizedButton buttonProps={buttonData.obj1} styles={classes.customButton3} />
   );
 };
 
