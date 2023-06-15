@@ -30,7 +30,7 @@ BothIcons.args={
     scrollVisible:true,
     add:true,
     value:'567780987654',
-    classProperties:{margin:'25px',width:'50%'},
+    classProperties:{margin:'25px',width:'100%'},
     dropDownStyle:{width:"95%"},
     variant:"outlined",
     showStartAdornment:true,showEndAdornment:true,  variant:"standard",mandatory:false
